@@ -1,9 +1,9 @@
 # GhaniHaider.github.io
 This is my personal homepage.
 
-#Ghani Haider
+# Ghani Haider
 
-##Ghani Haider
+## Ghani Haider
 
 1. Aga Khan University 
 2. Boston University
@@ -11,3 +11,5 @@ This is my personal homepage.
 4. University of Connecticut
 
 **Masters of Data Science**
+
+![
