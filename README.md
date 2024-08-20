@@ -12,4 +12,5 @@ This is my personal homepage.
 
 **Masters of Data Science**
 
-![my picture](Miramar) 
+![my picture](akulogo) 
+
