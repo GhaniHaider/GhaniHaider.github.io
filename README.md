@@ -12,4 +12,4 @@ This is my personal homepage.
 
 **Masters of Data Science**
 
-![my picture](
+![my picture](Miramar) 
