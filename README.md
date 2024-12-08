@@ -12,5 +12,8 @@ This is my personal homepage.
 
 **Masters of Data Science**
 
-![my picture](akulogo) 
+Full list of my projects/publications:
+https://pubmed.ncbi.nlm.nih.gov/?term=ghani+haider&sort=date
+
+
 
