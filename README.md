@@ -12,7 +12,9 @@ This is my personal homepage.
 
 
 Full list of my projects/publications:
+
 https://pubmed.ncbi.nlm.nih.gov/?term=ghani+haider&sort=date
+
 https://scholar.google.com/citations?hl=en&user=jfXj0p8AAAAJ
 
 
